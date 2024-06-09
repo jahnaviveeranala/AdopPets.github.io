@@ -1,0 +1,291 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body{
+    font-family: "PT Serif", serif;
+    overflow-x: hidden;
+  }
+.banner-image{
+    background-color:#d6d0c8;
+    background-size: cover;
+}
+#img{
+   height: 180%;
+   margin-top: -40px;
+}
+#content h1{
+    font-family: "PT Serif", serif;
+   font-weight:bolder;
+  
+    margin-top:150px;
+padding-left: 100px;
+width: 450px;
+line-height: 25śpx;
+margin-bottom: 30px;
+}
+.nav-item{
+    font-size: 1em;
+    font-weight:900px;
+}
+#sell{
+    width: 100px;
+    height: 40px;
+    border-radius:19px ;
+    background-color: black;
+    color: #ffff;
+    border: none;
+    margin-left: 10px;
+}
+#sub{
+    width: 120px;
+    height: 40px;
+    border-radius:19px ;
+    background-color: black;
+    color: #ffff;
+    border: none;
+    margin-left: 92px;
+}
+
+.positiontext{
+    text-align: center;
+   
+}
+.content h1{
+   padding-top: 100px;
+}
+#adoptcunt{
+    font-size: 1.5em;
+   margin-top: 30px;
+    margin-left: 60px;
+    font-family: "PT Serif", serif;
+    font-weight: 900;
+}
+.count{
+    height: 90px;
+    margin-left: 65px;
+    margin-right: 20px;
+    justify-content: center;
+    padding: 30px;
+    margin-bottom: 50px;
+    
+}
+#jobtype{
+        width: 120px;
+        margin-left:-30px;
+        padding: 7px;
+}
+#text{
+    margin-bottom: 7px;
+    margin-left: -30px;
+    font-weight: 100px;
+}
+#petcount{
+    padding: 20px;
+}
+#sub1{
+    width: 150px;
+    height: 45px;
+    border-radius:25px ;
+    background-color: black;
+    color: #ffff;
+    border: none;
+    margin-top: 20px;
+   margin-right: 0px;
+    padding: 12px;
+    margin-left: 30px;
+}
+
+.adopt{
+    background-color:#d6d0c8;
+    height: 390px;
+    
+}
+#portion1{
+  margin-top: 80px;
+ 
+}
+#adopttext{
+    padding-left: 80px;
+    width: 600px;
+    font-size: 16px;
+}
+#adopthead{
+    padding-left: 80px;
+    padding-bottom: 20px;
+   font-weight: 900;
+   margin-top: -20px;
+}
+#beaglepuppy{
+    width: 900px;
+    height: 970px;
+    margin-top: -98px;
+  margin-left: -65%;
+}
+#sub3{
+    width: 160px;
+    height: 40px;
+    border-radius:25px;
+    padding: 5px;
+    background-color: black;
+    color: #ffff;
+    border: none;
+    margin-top: 15px;
+    margin-left: 80px;
+}
+
+.how{
+    height: 430px;
+}
+#portion4{
+    padding-left:25%;
+    padding-top: 30px;
+}
+#working{
+    width: 270px;
+    font-weight: 900;
+}
+#howpara{
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+#sub4{
+    width: 190px;
+    height: 50px;
+    border-radius:25px;
+    padding: 5px;
+    background-color: black;
+    color: #ffff;
+    border: none;
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 16px;
+}
+.help{
+    background-color:#d6d0c8;
+    height: 550px;
+}
+.helpbox{
+   text-align: center;
+   margin-top: -250px;
+   margin-left: 20px;
+
+}
+.helphead h1{
+    text-align: center;
+    font-weight: bold;
+    height: 700px;
+   
+}
+.helphead h1{
+    
+    font-size: 2em;
+    padding-top: 90px;
+}
+.voluntrysyml{
+    margin-top: -90%;
+    margin-left: 110px;
+    background-color: black;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    text-align: center;
+     margin-bottom: -40px;
+}
+.donatesyml{
+    margin-top: -90%;
+    margin-left: 110px;
+    background-color: black;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    text-align: center;
+    margin-bottom: -40px;
+}
+.housesyml{
+    margin-top: -90%;
+    margin-left: 110px;
+    background-color: black;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    text-align: center;
+    margin-bottom: -40px;
+}
+.voluntertext,.donatetext ,.housetext {
+    font-size:0.9em;
+    padding-top: 40px;
+    border: 1px solid black;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+}
+.inbox{
+    width: 300px;
+   margin-left:50px;
+  
+}
+#sub5{
+    width: 170px;
+    height: 50px;
+    border-radius:25px;
+    padding: 5px;
+    background-color: black;
+    color:#ffff;
+    border: none;
+    margin-top:30px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#foothead1{
+    font-size: 1.2em;
+    padding-top: 20px;
+    font-weight: 600;
+}
+#footpara1{
+   font-size: 0.9em; 
+   margin-bottom: 0px;
+}
+.footer{
+background-color: black;
+color: #ffff;
+height: 150px;
+
+}
+#sub6{
+    width: 250px;
+    height: 30px;
+    border-radius: 20px;
+    padding: 12px;
+    justify-content: left;
+}
+#section2{
+    width: 200px;
+}
+.anotherbackground{
+    
+   background-color: #f0d7bf;
+    width: 100%;
+    height: 650px;
+    
+}
+#curlytail{
+    height: 600px;
+   
+   
+}
+
+
+.rectanglebox{
+    width: 500px;
+    height: 200px;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    align-items: center;
+    background-color: #ffff;
+}
+.box{
+    width: 300px;
+    height: 200px;
+    background-color: #ffff;
+}
